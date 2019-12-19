@@ -13,7 +13,7 @@ Tetris.py is the python file that runs the code. Other files included in the rep
 
 ## KeyBoard Shortcut : 
 
-Pressing d will allow for a hard drop feature, where the piece will fall straight down. 
+Pressing d on your keyboard will allow for a hard drop feature, where the piece will fall straight down. 
 
 
 
